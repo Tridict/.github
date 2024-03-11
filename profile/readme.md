@@ -8,4 +8,6 @@
 - Tri: “三”
 - dict: “字典”
 
+[🏠](https://tridict.github.io/)
+
 
