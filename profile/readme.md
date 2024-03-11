@@ -8,6 +8,7 @@
 - Tri: “三”
 - dict: “字典”
 
-[🏠](https://tridict.github.io/)
+
+[![Tridict](https://img.shields.io/badge/Tridict-🏠-grey)](https://tridict.github.io/)
 
 
